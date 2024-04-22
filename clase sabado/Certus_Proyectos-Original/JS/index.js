@@ -5,6 +5,7 @@ window.alert("bienvenido a la pagina");
 var number_1 = 10;
 var number_2 = 12;
 var result  =  0;
+var result  =  0;
 
 /*operadores aritmeticos y expresiones*/
 
